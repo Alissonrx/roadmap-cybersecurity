@@ -1,41 +1,37 @@
-# 🛡️ Roadmap de Cibersegurança – Alisson Rocha
+📘 Progresso Atual
+🟢 Módulo 1 — Fundamentos de TI e Redes Essenciais ✔ Concluído
+Este módulo estabelece a base fundamental em TI, troubleshooting e redes, essenciais para qualquer área da cibersegurança.
 
-Bem-vindo ao meu roadmap de estudos em **Cibersegurança**.  
-Este repositório foi criado para documentar minha evolução, organizar meus estudos e servir como portfólio para recrutadores e empresas.
+1. **Fundamentos de Hardware e Sistemas**
+Componentes de Hardware: (CPU, RAM, Placa-Mãe, GPU, PSU e Dispositivos de Armazenamento - HDD/SSD).
 
-Aqui registro cada módulo estudado, materiais usados, exercícios feitos e minhas anotações pessoais.
+Tipos de Conexão e Meios:
 
----
+Conexão física (Ethernet e Fibra Óptica).
 
-## 📘 Progresso Atual
+Tecnologias Sem Fio (Wi-Fi, Bluetooth, NFC, Infravermelho e Redes Celulares - 4G/5G).
 
-### 🔹 **Módulo 1 — Fundamental IT Skills + Networking Básico** ✔ Concluído  
-**Fundamentos de TI:**
-- Computer Hardware Components  
-- Connection Types and Their Function  
-- OS Independent Troubleshooting  
-- Microsoft Office Suite  
-- Google Suite  
-- iCloud  
+Habilidades de Solução de Problemas (Troubleshooting):
 
-**Tecnologias de Comunicação:**  
-- NFC  
-- Bluetooth  
-- Wi-Fi  
-- Infrared  
+Processo sistemático (Identificar, Pesquisar, Desenvolver um Plano, Testar, Documentar).
 
-**Networking Básico (antes no Módulo 2):**  
-- Conceitos iniciais de redes  
-- Protocolos básicos  
-- Modelo OSI / Modelo TCP-IP  
-- Endereçamento IP (IPv4 básico)
+Técnicas de Isolamento (Hardware/Software).
 
----
+Verificação de Conectividade (Uso de comandos ping, traceroute).
 
-### 🟡 **Módulo 2 — **  
-Este módulo será usado para os próximos tópicos do roadmap.
+Análise básica de Logs de sistema.
 
+Produtividade e Colaboração:
 
----
+Suítes de Produtividade (Microsoft Office, Google Workspace, LibreOffice).
 
+Conceitos de armazenamento e sincronização em Nuvem (iCloud, Google Drive, OneDrive).
 
+2. Networking Básico (Modelo OSI/TCP-IP)
+Conceitos Iniciais e Protocolos Básicos: (Preparação para comunicação digital).
+
+Modelos de Referência: Modelo OSI e Modelo TCP-IP.
+
+Endereçamento IP: Conceitos de IPv4 (Endereço, Máscara e Gateway).
+
+🟡 Módulo 2 — Fundamentos de Segurança da Informação (Próximo Passo)
