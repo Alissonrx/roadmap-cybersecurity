@@ -1,15 +1,21 @@
+
 📘 Progresso Atual (https://roadmap.sh/cyber-security?s=691da17906445b15ea5c48d9)
-🟢 Módulo 1 — Fundamentos de TI e Redes Essenciais ✔ Concluído
-Este módulo estabelece a base fundamental em TI, troubleshooting e redes, essenciais para qualquer área da cibersegurança.
 
-1. Fundamentos de Hardware e Sistemas
-Componentes de Hardware: (CPU, RAM, Placa-Mãe, GPU, PSU e Dispositivos de Armazenamento - HDD/SSD).
+🟢 Módulo 1 — Fundamentos de TI e Redes Essenciais ✔️ Concluído
+Este módulo estabeleceu a base fundamental em hardware, sistemas, troubleshooting e redes, essenciais para qualquer área da cibersegurança.
 
-Tipos de Conexão e Meios:
+1. 💻 Fundamentos de Hardware e Sistemas
+Componentes Essenciais de Hardware:
 
-Conexão física (Ethernet e Fibra Óptica).
+CPU, RAM, Placa-Mãe, GPU, PSU.
 
-Tecnologias Sem Fio (Wi-Fi, Bluetooth, NFC, Infravermelho e Redes Celulares - 4G/5G).
+Dispositivos de Armazenamento (HDD/SSD).
+
+Tipos de Conexão e Meios de Comunicação:
+
+Conexão Física: Ethernet e Fibra Óptica.
+
+Tecnologias Sem Fio: Wi-Fi, Bluetooth, NFC, Infravermelho, e Redes Celulares (4G/5G).
 
 Habilidades de Solução de Problemas (Troubleshooting):
 
@@ -23,15 +29,15 @@ Análise básica de Logs de sistema.
 
 Produtividade e Colaboração:
 
-Suítes de Produtividade (Microsoft Office, Google Workspace, LibreOffice).
+Suítes: Microsoft Office, Google Workspace, LibreOffice.
 
-Conceitos de armazenamento e sincronização em Nuvem (iCloud, Google Drive, OneDrive).
+Armazenamento em Nuvem: Conceitos de sincronização e armazenamento (iCloud, Google Drive, OneDrive).
 
-2. Networking Básico (Modelo OSI/TCP-IP)
-Conceitos Iniciais e Protocolos Básicos: (Preparação para comunicação digital).
+2. 🌐 Networking Básico (Modelo OSI/TCP-IP)
+Conceitos Iniciais e Protocolos Básicos (Preparação para comunicação digital).
 
-Modelos de Referência: Modelo OSI e Modelo TCP-IP.
+Modelos de Referência: Estudo do Modelo OSI e Modelo TCP-IP.
 
-Endereçamento IP: Conceitos de IPv4 (Endereço, Máscara e Gateway).
+Endereçamento IP (IPv4): Conceitos de Endereço, Máscara e Gateway.
 
-🟡 Módulo 2 — (Próximo Passo)
+🟡 Módulo 2 — Em estudo
